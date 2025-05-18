@@ -12,8 +12,12 @@ export const createConversation = async (
     body: JSON.stringify({
       // Santa Demo Persona
       // persona_id: "p3bb4745d4f9",
-       "replica_id": "r4c41453d2",
-    "persona_id": "p2fbd605"
+      // Tavus Demo Persona
+      //    "replica_id": "r4c41453d2",
+      // "persona_id": "p2fbd605"
+
+      replica_id: "rbb0f535dd",
+      persona_id: "pd43ffef",
     }),
   });
 
